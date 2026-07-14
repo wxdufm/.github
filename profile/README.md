@@ -4,7 +4,7 @@ hey! welcome to the github organization of wxdu 88.7 fm, located in durham nc. w
 
 # how can i help?
 if you'd like to contribute to our open-source software, follow these steps:
-  - fork the relevant repo into your own github account
-  - make changes there
-  - once you're ready, make a pull request to the wxdu repo
+  - clone the relevant repo locally
+  - make a new branch and code in that branch
+  - once you're ready, make a pull request to the wxdufm repo
   - our computing team will look over your code and approve it
